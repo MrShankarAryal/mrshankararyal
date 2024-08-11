@@ -1,18 +1,28 @@
-# 👋 Hi there! I'm **Shankar Aryal**
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical+Engineering+Student;Web+Developer;Python+Developer&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=....Welcome+to+Shankar+Aryal's+Profile!;Electrical+Engineering+Student;Web+Developer;Python+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
-I'm passionate about technology and constantly expanding my skills. Currently, I'm pursuing Electrical Engineering while also working as a web developer and Python developer.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shankar+Aryal....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-## 💻 Skills
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  I'm a passionate Electrical Engineering student with a love for web development and Python programming. Always eager to learn and take on new challenges!
+</p>
+
+<h2 align="center">💻 Technologies & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -28,7 +38,7 @@ I'm passionate about technology and constantly expanding my skills. Currently, I
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshankararyal&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-## 🌐 Connect with me
+<h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
   <a href="https://mrshankararyal.github.io/" target="_blank">
@@ -45,7 +55,7 @@ I'm passionate about technology and constantly expanding my skills. Currently, I
   </a>
 </p>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrshankararyal&show_icons=true&theme=radical" alt="GitHub Stats">
@@ -54,6 +64,24 @@ I'm passionate about technology and constantly expanding my skills. Currently, I
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshankararyal&theme=radical" alt="GitHub Streak">
 </p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrshankararyal&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
+
+<h2 align="center">👨‍💻 Coding Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrshankararyal&theme=react-dark&hide_border=true" alt="Contribution Graph">
+</p>
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+
+
+
 
 <div align="center">
   
@@ -64,3 +92,7 @@ I'm passionate about technology and constantly expanding my skills. Currently, I
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🙏;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>

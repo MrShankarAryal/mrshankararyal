@@ -16,11 +16,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-<h2 align="center">
-  <span style="background: linear-gradient(to right, #30CFD0 0%, #330867 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    🚀About Me
-  </span>
-</h2>
+
 
 <p align="center">
   I'm a passionate Electrical Engineering student with a love for web development and Python programming. Always eager to learn and take on new challenges!

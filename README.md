@@ -16,7 +16,11 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">
+  <span style="background: linear-gradient(to right, #30CFD0 0%, #330867 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🚀About Me
+  </span>
+</h2>
 
 <p align="center">
   I'm a passionate Electrical Engineering student with a love for web development and Python programming. Always eager to learn and take on new challenges!
@@ -37,6 +41,24 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshankararyal&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<h2 align="center">
+  <span style="background: linear-gradient(to right, #30CFD0 0%, #330867 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Skills
+  </span>
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-FFC107?style=for-the-badge&logo=problem-solving&logoColor=white" alt="Problem Solving">
+  <img src="https://img.shields.io/badge/Team%20Collaboration-007ACC?style=for-the-badge&logo=team-collaboration&logoColor=white" alt="Team Collaboration">
+  <img src="https://img.shields.io/badge/Communication-34A85A?style=for-the-badge&logo=communication&logoColor=white" alt="Communication">
+  <img src="https://img.shields.io/badge/Adaptability-FF69B4?style=for-the-badge&logo=adaptability&logoColor=white" alt="Adaptability">
+</p>
+
 
 <h2 align="center">🌐 Connect with me</h2>
 
@@ -78,9 +100,6 @@
 </p>
 
 <h2 align="center">🐍 Contribution Graph</h2>
-
-
-
 
 
 <div align="center">
